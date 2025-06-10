@@ -53,4 +53,8 @@ Given past weather data, the goal was to classify the **weather condition** (tar
 ml-olympiad-2024-weather/
 ├── README.md
 ├── ml-olympiad-weather.ipynb
-└── data/ (optional)
+└── data/ 
+    ├── sample_submission.csv
+    ├── test.csv
+    ├── train.csv
+
